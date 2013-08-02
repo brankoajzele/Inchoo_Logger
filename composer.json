@@ -1,0 +1,20 @@
+{
+    "name": "inchoo/logger",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Read you /var/logs/ from within Magento. Supports API access.",
+    "homepage": "https://github.com/ajzele/Inchoo_Logger",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"		
+    },
+    "require-dev": {
+    },
+    "authors":[
+       {
+            "name": "Branko Ajzele",
+            "email": "ajzele@gmail.com",
+            "homepage": "http://foggyline.net",
+            "role": "Developer"
+        }
+    ]
+}
